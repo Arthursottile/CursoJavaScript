@@ -1,0 +1,17 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#button{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5em;
+    background-color: rgba(0, 255, 221, 0.749);
+}
+
+.labels{
+    font-size: 7em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0); 
+}
